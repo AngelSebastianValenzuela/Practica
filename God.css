@@ -1,0 +1,20 @@
+* {
+	text-align: left;
+}
+
+img  {
+	background-color: yellow; 
+	}
+p.center {
+	font-style: italic;
+    color: darkblue;
+    }
+
+#para1 {
+	 font-style: oblique;
+	 color: darkblue;
+	} 
+h2, h3 {
+	color: skyblue;
+    font-style: oblique;
+}
